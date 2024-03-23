@@ -552,6 +552,7 @@
     transition: .5s;
     z-index: 1;
     width: 300px;
+    height: 500px;
 }
 
 .team-item::before,
